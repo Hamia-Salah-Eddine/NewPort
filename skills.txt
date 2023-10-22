@@ -1,0 +1,27 @@
+language:
+deutsch/ english/ frensh/ arabic
+
+.
+UI:
+Qt designer/ tkinter/ css/ html/django 
+.
+ogiciel:
+Cplex/ microsoft offices/ latex.
+
+.
+pythonbibliotheque: matimatiks 
+.
+base de donnees 
+
+.
+recherhce opperationel:
+Gestion du proget(ordonancement) / modeling/ optimising/ heuristique metaheuritique / classsification / prevision. 
+
+
+
+########################################
+projects:
+bibliotheque 
+
+
+ 
